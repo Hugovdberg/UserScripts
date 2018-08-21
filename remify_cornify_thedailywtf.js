@@ -7,7 +7,7 @@
 // @description  Show comments in the article body and highlight the cornify spans.
 // @author       Hugovdberg
 // @copyright    2018, Hugo van den Berg
-// @license      GPL-3.0-or-later
+// @license GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
