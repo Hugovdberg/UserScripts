@@ -3,11 +3,11 @@
 // @namespace    https://github.com/Hugovdberg
 // @homepageURL  https://github.com/Hugovdberg/UserScripts
 // @homepageURL  https://github.com/Hugovdberg/UserScripts/issues
-// @version      0.2.2
+// @version      0.2.3
 // @description  Show comments in the article body and highlight the cornify spans.
 // @author       Hugovdberg
 // @copyright    2018, Hugo van den Berg
-// @license      GPL v3
+// @license      GPL-3.0
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
