@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Remify & Cornify The Daily WTF
 // @namespace    https://github.com/Hugovdberg
-// @version      0.2
-// @description  try to take over the world!
-// @author       Hugo van den Berg
+// @version      0.2.1
+// @description  Show comments in the article body and highlight the cornify spans.
+// @author       Hugovdberg
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
+
 
 (function() {
     'use strict';
