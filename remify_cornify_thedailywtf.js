@@ -11,7 +11,9 @@
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
-
+// ==OpenUserJS==
+// @author Hugovdberg
+// ==/OpenUserJS==
 
 (function() {
     'use strict';
