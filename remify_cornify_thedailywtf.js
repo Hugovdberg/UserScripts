@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name         Remify & Cornify The Daily WTF
 // @namespace    https://github.com/Hugovdberg
-// @version      0.2.1
+// @homepageURL  https://github.com/Hugovdberg/UserScripts
+// @homepageURL  https://github.com/Hugovdberg/UserScripts/issues
+// @version      0.2.2
 // @description  Show comments in the article body and highlight the cornify spans.
 // @author       Hugovdberg
+// @copyright    2018, Hugo van den Berg
+// @license      GPL v3
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
