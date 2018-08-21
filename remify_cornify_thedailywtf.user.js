@@ -3,11 +3,12 @@
 // @namespace    https://github.com/Hugovdberg
 // @homepageURL  https://github.com/Hugovdberg/UserScripts
 // @homepageURL  https://github.com/Hugovdberg/UserScripts/issues
-// @version      0.2.3
+// @updateURL    https://openuserjs.org/meta/Hugovdberg/Remify_Cornify_The_Daily_WTF.meta.js
+// @version      0.2.4
 // @description  Show comments in the article body and highlight the cornify spans.
 // @author       Hugovdberg
 // @copyright    2018, Hugo van den Berg
-// @license GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
+// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @match        thedailywtf.com/*
 // @grant        none
 // ==/UserScript==
